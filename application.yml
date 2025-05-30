@@ -1,7 +1,4 @@
-spring:
-    cloud:
-        discovery:
-            enabled: true
+
 
 eureka:
     instance:
